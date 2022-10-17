@@ -1,0 +1,20 @@
+Headers:
+About Us/Home
+Competition
+The Team
+Sponsors
+Contact Us
+
+Single page design with header that scrolls to section
+
+font: aharoni or verdonna
+
+
+
+.containers div {
+  width: 95%;
+  height: fit-content;
+  overflow: none;
+}
+
+
