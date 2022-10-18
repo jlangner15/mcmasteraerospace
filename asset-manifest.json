@@ -1,7 +1,7 @@
 {
-  "main.css": "/mcmasteraerospace/static/css/main.4cad64eb.chunk.css",
-  "main.js": "/mcmasteraerospace/static/js/main.eb4d3a56.chunk.js",
-  "main.js.map": "/mcmasteraerospace/static/js/main.eb4d3a56.chunk.js.map",
+  "main.css": "/mcmasteraerospace/static/css/main.14995c2b.chunk.css",
+  "main.js": "/mcmasteraerospace/static/js/main.6dfdb391.chunk.js",
+  "main.js.map": "/mcmasteraerospace/static/js/main.6dfdb391.chunk.js.map",
   "static/js/1.bb2d15f8.chunk.js": "/mcmasteraerospace/static/js/1.bb2d15f8.chunk.js",
   "static/js/1.bb2d15f8.chunk.js.map": "/mcmasteraerospace/static/js/1.bb2d15f8.chunk.js.map",
   "static/css/2.f454a78b.chunk.css": "/mcmasteraerospace/static/css/2.f454a78b.chunk.css",
@@ -21,7 +21,7 @@
   "static/media/BCHughes-Colour-HR.png": "/mcmasteraerospace/static/media/BCHughes-Colour-HR.0df84389.png",
   "static/media/McMaster-Colour-Cropped.png": "/mcmasteraerospace/static/media/McMaster-Colour-Cropped.63e0f30c.png",
   "static/media/instagram.png": "/mcmasteraerospace/static/media/instagram.0634a5ba.png",
-  "static/media/mcm-eng_stack-blk_png.png": "/mcmasteraerospace/static/media/mcm-eng_stack-blk_png.10040a09.png",
+  "static/media/mcm-eng_stack-col_png.png": "/mcmasteraerospace/static/media/mcm-eng_stack-col_png.65c8ce09.png",
   "static/media/McMaster Aerospace Team Photo.jpg": "/mcmasteraerospace/static/media/McMaster Aerospace Team Photo.a13814f4.jpg",
   "static/media/prototype.png": "/mcmasteraerospace/static/media/prototype.326e5a31.png",
   "static/media/mastLogo.jpg": "/mcmasteraerospace/static/media/mastLogo.719e30dc.jpg",
@@ -29,9 +29,9 @@
   "static/media/mastTeam.jpg": "/mcmasteraerospace/static/media/mastTeam.4b620582.jpg",
   "static/media/MAST-colour.png": "/mcmasteraerospace/static/media/MAST-colour.008cbc94.png",
   "static/media/MAST - colour.png": "/mcmasteraerospace/static/media/MAST - colour.5aecaf7e.png",
-  "static/css/main.4cad64eb.chunk.css.map": "/mcmasteraerospace/static/css/main.4cad64eb.chunk.css.map",
+  "static/css/main.14995c2b.chunk.css.map": "/mcmasteraerospace/static/css/main.14995c2b.chunk.css.map",
   "static/css/2.f454a78b.chunk.css.map": "/mcmasteraerospace/static/css/2.f454a78b.chunk.css.map",
   "index.html": "/mcmasteraerospace/index.html",
-  "precache-manifest.7cc7abf7c59764f1ebb3860afb2445ad.js": "/mcmasteraerospace/precache-manifest.7cc7abf7c59764f1ebb3860afb2445ad.js",
+  "precache-manifest.6fc820c953a7170effafa1b1bbd90eb9.js": "/mcmasteraerospace/precache-manifest.6fc820c953a7170effafa1b1bbd90eb9.js",
   "service-worker.js": "/mcmasteraerospace/service-worker.js"
 }
