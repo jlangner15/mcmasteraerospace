@@ -1,3 +1,4 @@
+import React from 'react'
 import logo from '../assets/png/McMaster - colour.png';
 import plane from '../assets/png/McMaster- plane-colour.png';
 import title from '../assets/png/McMaster-title-color.png';

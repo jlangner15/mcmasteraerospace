@@ -1,3 +1,4 @@
+import React from 'react'
 import '../App.css';
 import teamPhoto from '../assets/mastTeam.jpg';
 import saeLogo from '../assets/SAE_International_logo.png'
@@ -32,13 +33,13 @@ function Competition() {
     </div>
 
     <div class="row">
-            <div class="column left">
+            <div class="column left g">
                 <figure class="item">
                     <img src={international} class="icon" />
                     <figcaption class="caption"><b>International Competition</b></figcaption>
                 </figure>
             </div>
-            <div class="column right">
+            <div class="column right g">
                 <figure class="item">
                     <img src={team} class="icon" />
                     <figcaption class="caption"><b>75 Teams</b></figcaption>

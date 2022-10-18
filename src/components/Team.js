@@ -1,3 +1,4 @@
+import React from 'react'
 import '../App.css';
 import teamPhoto from '../assets/McMaster Aerospace Team Photo.jpg';
 import prototype from '../assets/prototype.png';

@@ -1,8 +1,10 @@
+import React from 'react'
 import '../App.css';
 import planeUp from '../assets/McMaster-Colour-Cropped.png'
 import instagram from '../assets/instagram.png'
 import linkedin from '../assets/linkedin.png'
-import macEng from '../assets/mcm-eng_stack-blk_png.png'
+//import macEng from '../assets/mcm-eng_stack-blk_png.png'
+import macEng from '../assets/mcm-eng_stack-col_png.png'
 
 function Contact() {
     return (

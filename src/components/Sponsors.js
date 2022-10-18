@@ -1,3 +1,4 @@
+import React from 'react'
 import '../App.css';
 import solidWorks from '../assets/sponsors/SolidWorks-Logo.png'
 import aecon from '../assets/sponsors/Aecon-Logo.wine.png'
@@ -56,12 +57,12 @@ function Sponsors() {
             </div>
 
             <div class="row">
-                <div class="column left">
+                <div class="column left g">
                     <a href="https://www.aecon.com/" target="blank"> 
                         <img src={aecon} class="gold-sponsor-logo shad"/>
                     </a>
                 </div>
-                <div class="column right">
+                <div class="column right g">
                     <a href="https://www.solidworks.com/" target="blank"> 
                         <img src={solidWorks} class="gold-sponsor-logo shad"/>
                     </a>

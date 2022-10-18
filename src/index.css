@@ -2,13 +2,14 @@ html {
   scroll-behavior: smooth;
    min-width: 300px; 
    overflow-x: hidden;
+   zoom: 80%;
 }
 
 body {
   margin: 0;
   background-color: white;
   width: 100%;
-  height: 100%;
+  height: auto;
   font-family: Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -93,9 +94,6 @@ body {
 .footer div {
   width: auto;
   height: fit-content;
-  /* margin-bottom: 15px;
-  margin-top: 35px;
-  scroll-margin-top: 75px; */
 }
 
 
@@ -105,9 +103,6 @@ body {
   height: auto;
   width: 100%;
   max-width: 250px;
-  /* padding-top: 1.375em;
-  padding-left: 0.25em;
-  padding-right: 0.25em; */
   padding: 0.25em;
 
 }
@@ -135,10 +130,6 @@ body {
   /* margin-bottom: 50px; */
 }
 
-/* .row {
-  margin: 25px;
-} */
-
 .row:after {
   content: "";
   display: table;
@@ -154,12 +145,14 @@ body {
 .containers div {
   margin-bottom: 20px;
   scroll-margin-top: 105px;
+  overflow-y: none;
 }  
 
 .containers.section {
   width: auto;
   height: fit-content;
   margin-top: 35px;
+  overflow-y: none;
 }  
 
 code {
@@ -297,19 +290,6 @@ figure.item {
   margin-right: auto;
 }
 
-/* .social-media-icon-container img{
-  /* margin-right: 25px;
-  margin-left: 10px; */
-  /* margin-top: -25px; }*/
-  
-
-/* .social-media-icon-container a{
-  margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: auto;
-    margin-right: auto;
-} */
-
 .contact-container {
   text-align: left;
   margin-left: 10px;
@@ -369,12 +349,6 @@ figure.item {
   font-size: 1.5em;
   font-weight: bold;
 }
-
-/* Change the background color on mouse-over */
-/* .header a:hover {
-  background-color: #e2e0e0;
-  color: black;
-} */
 
 /* Style the active/current link*/
 .header a.active {
@@ -464,99 +438,12 @@ figure.item {
   padding: 0;
 }
 
-/* Bring right side nav bar to left Below
- @media screen and (max-width: 840px) {
-
-  body {
-    width: 100%;
-    overflow-x: hidden;
-  }
-
-  .header {
-    height: 250px;
-  }
-
-  .header-right {
-    float: left;
-  }
-
-  .containers div {
-    scroll-margin-top: 150px;
-  }
-
-  .triangle-bottomright{
-    width: 0;
-    height: 0;
-    border-left: 175px solid transparent;
-    float: left;
-  }
-  .triangle-bottomleft{
-    width: 0;
-    height: 0;
-    border-right: 175px solid transparent;
-    float: right;
-  }
-
-  .subtitle {
-    text-align: center;
-  }
-
-  .header {
-    height: fit-content;
-  }
-
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  .header-right {
-    display: none;
-  }
-
-  .triangle-bottomright {
-    visibility: hidden;
-  }
-
-  .triangle-bottomleft {
-    visibility: hidden;
-  }
-
-  .column {
-    float: none;
-  }
-
-  .column.left {
-    width: 100%;
-  }
-  
-  .column.right {
-    width: 100%;
-  }
-  
-  .column.left66 {
-    width: 100%;
-  }
-  
-  .column.right33 {
-    width: 100%;
-  }
-  
-  .column.left33 {
-    width: 100%;
-  }
-  
-  .column.center33 {
-    width: 100%;
-  }
-
-} */
 
 @media screen and (max-width: 1050px) {
 
   body {
     width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
   }
 
   .image {
@@ -575,6 +462,14 @@ figure.item {
   
   .column.right {
     width: 100%;
+  }
+
+  .column.left.g {
+    width: 50%;
+  }
+  
+  .column.right.g {
+    width: 50%;
   }
 
   .column.left66-1 {
@@ -628,12 +523,6 @@ figure.item {
     font-weight: bold;
   }
   
-  /* Change the background color on mouse-over */
-  /* .header a:hover {
-    background-color: #e2e0e0;
-    color: black;
-  } */
-  
   /* Style the active/current link*/
   .header a.active {
     background-color: #781214;
@@ -656,7 +545,6 @@ figure.item {
   }
 
   .contact-container h6{
-    /* font-size: 24px; */
     font-size: 14px;
   }
 
@@ -666,13 +554,13 @@ figure.item {
 
 }
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
   .header {
-    height: 140px;
+    height: 105px;
   }
 
   .header-right {
-    float: left;
+    float: right;
     margin-left: 10px;
   }
 
@@ -684,16 +572,16 @@ figure.item {
   
   .containers div {
     margin-bottom: 20px;
-    scroll-margin-top: 160px; /* Height + 20px*/
+    scroll-margin-top: 160px; /* Height + 20px
   }  
-}
+} */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 730px) {
 
   body {
     width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
   }
 
   .containers {
@@ -770,6 +658,14 @@ figure.item {
   }
   
   .column.right {
+    width: 100%;
+  }
+
+  .column.left.g {
+    width: 100%;
+  }
+  
+  .column.right.g {
     width: 100%;
   }
 
