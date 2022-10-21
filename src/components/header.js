@@ -1,7 +1,5 @@
 import React from 'react'
-import logo from '../assets/png/McMaster - colour.png';
-import plane from '../assets/png/McMaster- plane-colour.png';
-import title from '../assets/png/McMaster-title-color.png';
+import logoLeft from '../assets/webLogoLeft.png';
 
 import '../App.css';
 
@@ -12,9 +10,7 @@ function Header() {
 
             <div class="header-left">
             <a href="#default">
-                <img class ="header-logo" src={plane} ></img>
-                <img class ="header-title" src={title} ></img>
-                {/* {<a href="#default" class="logo">McMaster Aerospace Team</a>} */}
+                <img class ="header-logo" src={logoLeft} ></img>
                 </a>
             </div>
 
@@ -25,6 +21,7 @@ function Header() {
             <a href="#sponsors">Sponsors</a>
             <a href="#contact">Contact Us</a>
         </div>
+
     </div>
     )
   }

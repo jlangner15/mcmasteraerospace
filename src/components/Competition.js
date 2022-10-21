@@ -23,10 +23,10 @@ function Competition() {
 
         <div class="column right33-2">
             <a href="https://www.sae.org/"  target="blank">
-                <img src={saeLogo} class="image small shad" />
+                <img src={saeLogo} class="image small shad sae" />
             </a> 
             <a href="https://www.saeaerodesign.com/"  target="blank">
-                <img src={saeDesignEast} class="image shad" />
+                <img src={saeDesignEast} class="image shad sae" />
             </a>    
         </div>
 
