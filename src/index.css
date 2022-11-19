@@ -181,13 +181,13 @@ code {
 }
 
 .sponsor-group {
-  margin-top: 75px;
+  margin-top: 50px;
 }
 
 .title-sponsor-logo {
   object-fit: contain;
-  width: 80%;
-  height: 250px;
+  width: 66%;
+  height: 170px;
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 20px;
@@ -196,26 +196,26 @@ code {
 
 .platnium-sponsor-logo {
   object-fit: contain;
-  width: 66%;
-  height: 250px;
+  width: 100%;
+  height: 160px;
 }
 
 .gold-sponsor-logo {
   object-fit: contain;
   width: 100%;
-  height: 200px;
+  height: 150px;
 }
 
 .silver-sponsor-logo {
   object-fit: contain;
   width: 100%;
-  height: 150px;
+  height: 125px;
 }
 
 .bronze-sponsor-logo {
   object-fit: contain;
   width: 100%;
-  height: 125px;
+  height: 100px;
 
   padding-right: clamp(2px, 15%, 25%);
   padding-left: clamp(2px, 15%, 25%);
@@ -536,7 +536,7 @@ figure.item {
   }
 
   .sponsor-group {
-    margin-top: 50px;
+    margin-top: 35px;
   }
 
   .footer {

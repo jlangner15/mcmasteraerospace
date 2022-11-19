@@ -9,7 +9,16 @@ import skyGauge from '../assets/sponsors/Skygauge_Logo.jpg'
 import macEng from '../assets/sponsors/McMaster Engineering.jpg'
 import greatHobbies from '../assets/sponsors/GreatHobbies.png'
 import amp from '../assets/sponsors/AMP Logos_Green w- Words.png'
+import liburdi from '../assets/sponsors/Liburdi Logo.jpg'
+import engPhys from '../assets/sponsors/mcm-engphys_left-col_jpg.jpg'
+import mechEng from '../assets/sponsors/mcm-mech_left-col_jpg.jpg'
+import collins from '../assets/sponsors/Collins_Aerospace_logo_k_rgb.jpg'
 
+
+/*
+plat lib collins mech
+bronze engphy
+*/
 
 function Sponsors() {
     return (
@@ -23,7 +32,7 @@ function Sponsors() {
 
         </div>
 
-        <div class="sponsor-group" id="platnium-sponsors">
+        <div class="sponsor-group" id="title-sponsors">
             <div class="row">
                 <div class="column left33" id="sponsor-triangle">
                     <a class="triangle-bottomright black"></a>
@@ -59,9 +68,27 @@ function Sponsors() {
             </div>
 
             <div class="row">
-                <div class="center">
+                <div class="column left g">
                     <a href="https://www.skygauge.co/" target="blank"> 
                         <img src={skyGauge} class="platnium-sponsor-logo shad"/>
+                    </a>
+                </div>
+                <div class="column right g">
+                    <a href="http://www.collinsaerospace.com/who-we-are/about-us/global/north-america/canada" target="blank"> 
+                        <img src={collins} class="platnium-sponsor-logo shad"/>
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="column left g">
+                    <a href="https://www.eng.mcmaster.ca/mech" target="blank"> 
+                        <img src={mechEng} class="platnium-sponsor-logo shad"/>
+                    </a>
+                </div>
+                <div class="column right g">
+                    <a href="https://www.liburdi.com/" target="blank"> 
+                        <img src={liburdi} class="platnium-sponsor-logo shad"/>
                     </a>
                 </div>
             </div>
@@ -153,8 +180,8 @@ function Sponsors() {
                     </a>
                 </div>
                 <div class="column right33">
-                    <a href="" target="blank"> 
-                        {/*<img src={} class="silver-sponsor-logo shad"/>*/}
+                    <a href="https://www.eng.mcmaster.ca/engphys" target="blank"> 
+                        <img src={engPhys} class="bronze-sponsor-logo shad"/>
                     </a>
                 </div>
             </div>
