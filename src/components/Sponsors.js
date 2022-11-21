@@ -60,7 +60,7 @@ function Sponsors() {
                     <a class="triangle-bottomright platnium"></a>
                 </div>
                 <div class="column center33">
-                    <h6 class="platnium-sponsor">Platnium</h6>
+                    <h6 class="platnium-sponsor">Platinum</h6>
                 </div>
                 <div class="column right33" id="sponsor-triangle">
                     <a class="triangle-bottomleft platnium"></a>
