@@ -2,7 +2,6 @@ import React from 'react'
 import '../App.css';
 import solidWorks from '../assets/sponsors/SolidWorks-Logo.png'
 import aecon from '../assets/sponsors/Aecon-Logo.wine.png'
-import ansys from '../assets/sponsors/ansys-logo.jpg'
 import bcHughes from '../assets/sponsors/BCHughes-Colour-HR.png'
 import stelco from '../assets/sponsors/stelco-inc-logo-vector.png'
 import skyGauge from '../assets/sponsors/Skygauge_Logo.jpg'
@@ -13,12 +12,8 @@ import liburdi from '../assets/sponsors/Liburdi Logo.jpg'
 import engPhys from '../assets/sponsors/mcm-engphys_left-col_jpg.jpg'
 import mechEng from '../assets/sponsors/mcm-mech_left-col_jpg.jpg'
 import collins from '../assets/sponsors/Collins_Aerospace_logo_k_rgb.jpg'
+import thunderPower from '../assets/sponsors/TP Logo White Vector.png'
 
-
-/*
-plat lib collins mech
-bronze engphy
-*/
 
 function Sponsors() {
     return (
@@ -138,8 +133,8 @@ function Sponsors() {
 
             <div class="row">
                 <div class="column left33" >
-                    <a href="https://www.ansys.com/" target="blank"> 
-                        <img src={ansys} class="silver-sponsor-logo shad"/>
+                <a href="https://www.greathobbies.com/" target="blank"> 
+                        <img src={greatHobbies} class="silver-sponsor-logo shad"/>
                     </a>
                 </div>
                 <div class="column center33">
@@ -170,18 +165,18 @@ function Sponsors() {
 
             <div class="row">
                 <div class="column left33">
-                    <a href="https://www.greathobbies.com/" target="blank"> 
-                        <img src={greatHobbies} class="bronze-sponsor-logo shad"/>
-                    </a>
-                </div>
-                <div class="column center33">
                     <a href="https://bchughes.ca/" target="blank"> 
                         <img src={bcHughes} class="bronze-sponsor-logo shad"/>
                     </a>
                 </div>
-                <div class="column right33">
+                <div class="column center33">
                     <a href="https://www.eng.mcmaster.ca/engphys" target="blank"> 
                         <img src={engPhys} class="bronze-sponsor-logo shad"/>
+                    </a>
+                </div>
+                <div class="column right33">
+                    <a href="https://www.thunderpowerrc.com/" target="blank"> 
+                        <img src={thunderPower} class="bronze-sponsor-logo shad"/>
                     </a>
                 </div>
             </div>
