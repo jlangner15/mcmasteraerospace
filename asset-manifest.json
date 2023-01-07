@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.de7e0ff2.chunk.css",
-  "main.js": "/static/js/main.ad049a78.chunk.js",
-  "main.js.map": "/static/js/main.ad049a78.chunk.js.map",
+  "main.js": "/static/js/main.eb1b629f.chunk.js",
+  "main.js.map": "/static/js/main.eb1b629f.chunk.js.map",
   "static/js/1.0f153777.chunk.js": "/static/js/1.0f153777.chunk.js",
   "static/js/1.0f153777.chunk.js.map": "/static/js/1.0f153777.chunk.js.map",
   "static/css/2.d22b2895.chunk.css": "/static/css/2.d22b2895.chunk.css",
@@ -16,7 +16,6 @@
   "static/media/team.png": "/static/media/team.accae175.png",
   "static/media/SolidWorks-Logo.png": "/static/media/SolidWorks-Logo.8adb877f.png",
   "static/media/Aecon-Logo.wine.png": "/static/media/Aecon-Logo.wine.62e504cc.png",
-  "static/media/ansys-logo.jpg": "/static/media/ansys-logo.7dcc41a0.jpg",
   "static/media/BCHughes-Colour-HR.png": "/static/media/BCHughes-Colour-HR.0df84389.png",
   "static/media/Skygauge_Logo.jpg": "/static/media/Skygauge_Logo.43d138a9.jpg",
   "static/media/McMaster Engineering.jpg": "/static/media/McMaster Engineering.58166fcf.jpg",
@@ -26,6 +25,7 @@
   "static/media/mcm-engphys_left-col_jpg.jpg": "/static/media/mcm-engphys_left-col_jpg.f176359e.jpg",
   "static/media/mcm-mech_left-col_jpg.jpg": "/static/media/mcm-mech_left-col_jpg.6ae4da98.jpg",
   "static/media/Collins_Aerospace_logo_k_rgb.jpg": "/static/media/Collins_Aerospace_logo_k_rgb.e043fe3e.jpg",
+  "static/media/TP Logo White Vector.png": "/static/media/TP Logo White Vector.c40b8f8b.png",
   "static/media/McMaster-Colour-Cropped.png": "/static/media/McMaster-Colour-Cropped.63e0f30c.png",
   "static/media/instagram.png": "/static/media/instagram.0634a5ba.png",
   "static/media/mcm-eng_stack-col_png.png": "/static/media/mcm-eng_stack-col_png.65c8ce09.png",
@@ -35,9 +35,9 @@
   "static/media/mastTeam.jpg": "/static/media/mastTeam.4b620582.jpg",
   "static/media/MAST-colour.png": "/static/media/MAST-colour.008cbc94.png",
   "static/media/MAST - colour.png": "/static/media/MAST - colour.5aecaf7e.png",
-  "static/css/main.de7e0ff2.chunk.css.map": "/static/css/main.de7e0ff2.chunk.css.map",
   "static/css/2.d22b2895.chunk.css.map": "/static/css/2.d22b2895.chunk.css.map",
+  "static/css/main.de7e0ff2.chunk.css.map": "/static/css/main.de7e0ff2.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.65b74ce2592e5c77cafb93ad6cf90312.js": "/precache-manifest.65b74ce2592e5c77cafb93ad6cf90312.js",
+  "precache-manifest.e667c42848cc7d2a98b4f4efff5f99fa.js": "/precache-manifest.e667c42848cc7d2a98b4f4efff5f99fa.js",
   "service-worker.js": "/service-worker.js"
 }
