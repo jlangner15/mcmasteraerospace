@@ -13,15 +13,9 @@ function App() {
   return (
     <div className="App">
        <AppendHead>
-        <title>TEST456</title>
+        <title>McMaster Aerospace Team</title>
         </AppendHead> 
       <body>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" />
-        <p>
-          <b>Coming Soon</b>
-        </p>
-      </header> */}
       <Header />
       <div class="containers">
         <Team />

@@ -88,7 +88,7 @@ function Contact() {
                     </ul> */}
                     <address>
                         McMaster Aerospace <br />
-                        Facult of Engineering <br />
+                        Faculty of Engineering <br />
                         JHE Room 261 <br />
                         1280 Main St W <br />
                         Hamilton, ON L8S 4L8 <br />
