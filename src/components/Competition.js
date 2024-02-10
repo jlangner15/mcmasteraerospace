@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css';
-import teamPhoto from '../assets/mastTeam.jpg';
+import teamPhoto from '../assets/mastTeam.png';
 import saeLogo from '../assets/SAE_International_logo.png'
 import saeDesignEast from '../assets/SAE_design_east.png'
 import international from '../assets/around-the-world.png'

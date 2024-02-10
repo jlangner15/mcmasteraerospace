@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css';
-import teamPhoto from '../assets/McMaster Aerospace Team Photo.jpg';
+import teamPhoto from '../assets/mastTeam.png';
 import prototype from '../assets/prototype.png';
 import planeTakeoff from '../assets/takeoff-the-plane.png';
 import planeLogo from '../assets/png/MAST-colour.png';
@@ -37,7 +37,7 @@ function Team() {
             <div class="column center33">
                 <figure class="item">
                     <img src={group} class="icon" />
-                    <figcaption class="caption"><b>16 Members</b></figcaption>
+                    <figcaption class="caption"><b>34 Members</b></figcaption>
                 </figure>
             </div>
             <div class="column right33">

@@ -3,16 +3,17 @@ import '../App.css';
 import solidWorks from '../assets/sponsors/SolidWorks-Logo.png'
 import aecon from '../assets/sponsors/Aecon-Logo.wine.png'
 import bcHughes from '../assets/sponsors/BCHughes-Colour-HR.png'
-import stelco from '../assets/sponsors/stelco-inc-logo-vector.png'
 import skyGauge from '../assets/sponsors/Skygauge_Logo.jpg'
 import macEng from '../assets/sponsors/McMaster Engineering.jpg'
 import greatHobbies from '../assets/sponsors/GreatHobbies.png'
-import amp from '../assets/sponsors/AMP Logos_Green w- Words.png'
 import liburdi from '../assets/sponsors/Liburdi Logo.jpg'
 import engPhys from '../assets/sponsors/mcm-engphys_left-col_jpg.jpg'
 import mechEng from '../assets/sponsors/mcm-mech_left-col_jpg.jpg'
 import collins from '../assets/sponsors/Collins_Aerospace_logo_k_rgb.jpg'
 import thunderPower from '../assets/sponsors/TP Logo White Vector.png'
+import PW from '../assets/sponsors/PW_Logo.png'
+import hitec from '../assets/sponsors/Logo-Hitec.png'
+import apc from '../assets/sponsors/apc_logo.png'
 
 
 function Sponsors() {
@@ -64,8 +65,8 @@ function Sponsors() {
 
             <div class="row">
                 <div class="column left g">
-                    <a href="https://www.skygauge.co/" target="blank"> 
-                        <img src={skyGauge} class="platnium-sponsor-logo shad"/>
+                    <a href="https://www.prattwhitney.com/" target="blank"> 
+                        <img src={PW} class="platnium-sponsor-logo shad"/>
                     </a>
                 </div>
                 <div class="column right g">
@@ -76,12 +77,7 @@ function Sponsors() {
             </div>
 
             <div class="row">
-                <div class="column left g">
-                    <a href="https://www.eng.mcmaster.ca/mech" target="blank"> 
-                        <img src={mechEng} class="platnium-sponsor-logo shad"/>
-                    </a>
-                </div>
-                <div class="column right g">
+                <div class="column center g">
                     <a href="https://www.liburdi.com/" target="blank"> 
                         <img src={liburdi} class="platnium-sponsor-logo shad"/>
                     </a>
@@ -105,13 +101,23 @@ function Sponsors() {
 
             <div class="row">
                 <div class="column left g">
-                    <a href="https://www.aecon.com/" target="blank"> 
-                        <img src={aecon} class="gold-sponsor-logo shad"/>
+                    <a href="https://www.eng.mcmaster.ca/mech" target="blank"> 
+                        <img src={mechEng} class="platnium-sponsor-logo shad"/>
+                    </a>
+                </div>
+                <div class="column left g">
+                    <a href="https://www.skygauge.co/" target="blank"> 
+                        <img src={skyGauge} class="gold-sponsor-logo shad"/>
                     </a>
                 </div>
                 <div class="column right g">
                     <a href="https://www.solidworks.com/" target="blank"> 
                         <img src={solidWorks} class="gold-sponsor-logo shad"/>
+                    </a>
+                </div>
+                <div class="column right g">
+                    <a href="https://hitecrcd.com/" target="blank"> 
+                        <img src={hitec} class="gold-sponsor-logo shad"/>
                     </a>
                 </div>
             </div>
@@ -138,13 +144,13 @@ function Sponsors() {
                     </a>
                 </div>
                 <div class="column center33">
-                    <a href="https://www.stelco.com/" target="blank"> 
-                        <img src={stelco} class="silver-sponsor-logo shad"/>
+                    <a href="https://www.aecon.com/" target="blank"> 
+                        <img src={aecon} class="silver-sponsor-logo shad"/>
                     </a>
                 </div>
                 <div class="column right33">
-                    <a href="https://www.advancedmobilityproducts.com/" target="blank"> 
-                        <img src={amp} class="silver-sponsor-logo shad"/>
+                    <a href="https://www.apcprop.com/" target="blank"> 
+                        <img src={apc} class="silver-sponsor-logo shad"/>
                     </a>
                 </div>
             </div>
@@ -164,17 +170,12 @@ function Sponsors() {
             </div>
 
             <div class="row">
-                <div class="column left33">
-                    <a href="https://bchughes.ca/" target="blank"> 
-                        <img src={bcHughes} class="bronze-sponsor-logo shad"/>
-                    </a>
-                </div>
-                <div class="column center33">
+                <div class="column right g">
                     <a href="https://www.eng.mcmaster.ca/engphys" target="blank"> 
                         <img src={engPhys} class="bronze-sponsor-logo shad"/>
                     </a>
                 </div>
-                <div class="column right33">
+                <div class="column left g">
                     <a href="https://www.thunderpowerrc.com/" target="blank"> 
                         <img src={thunderPower} class="bronze-sponsor-logo shad"/>
                     </a>
