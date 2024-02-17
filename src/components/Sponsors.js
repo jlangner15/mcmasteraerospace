@@ -77,7 +77,7 @@ function Sponsors() {
             </div>
 
             <div class="row">
-                <div class="column center g">
+                <div class="column center g" id = "half-width">
                     <a href="https://www.liburdi.com/" target="blank"> 
                         <img src={liburdi} class="platnium-sponsor-logo shad"/>
                     </a>

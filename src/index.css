@@ -16,6 +16,10 @@ body {
 
 }
 
+#half-width{
+  width: 50%
+}
+
 .column {
   float: left;
 }
