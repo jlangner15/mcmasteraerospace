@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cc09be2.css",
-    "main.js": "/static/js/main.1cad4f28.js",
+    "main.css": "/static/css/main.bbe7de67.css",
+    "main.js": "/static/js/main.3d82de26.js",
     "static/js/787.475fd0f7.chunk.js": "/static/js/787.475fd0f7.chunk.js",
-    "static/media/McMaster Aerospace Team Photo.jpg": "/static/media/McMaster Aerospace Team Photo.eaf46ae5f54409cf4115.jpg",
-    "static/media/mastTeam.jpg": "/static/media/mastTeam.5592332793d8f1126997.jpg",
+    "static/media/mastTeam.png": "/static/media/mastTeam.84fdd9ad8769b04ed1c9.png",
     "static/media/Liburdi Logo.jpg": "/static/media/Liburdi Logo.84f89736f78a23674665.jpg",
     "static/media/BCHughes-Colour-HR.png": "/static/media/BCHughes-Colour-HR.d50e251161a68de96f92.png",
+    "static/media/PW_Logo.png": "/static/media/PW_Logo.65d2eb9321e105836288.png",
     "static/media/webLogoLeft.png": "/static/media/webLogoLeft.70fae7ccc64e6e5ec15b.png",
     "static/media/Collins_Aerospace_logo_k_rgb.jpg": "/static/media/Collins_Aerospace_logo_k_rgb.ff668526ef902cb914a6.jpg",
     "static/media/SAE_International_logo.png": "/static/media/SAE_International_logo.223f42f7bdb199d39d99.png",
+    "static/media/apc_logo.png": "/static/media/apc_logo.5f4607cd766ef3639dbc.png",
     "static/media/mcm-mech_left-col_jpg.jpg": "/static/media/mcm-mech_left-col_jpg.9459a7a8f402edf39c61.jpg",
     "static/media/mcm-engphys_left-col_jpg.jpg": "/static/media/mcm-engphys_left-col_jpg.1274ac2da6e5b9f3160c.jpg",
     "static/media/MAST - colour.png": "/static/media/MAST - colour.f2b5cd92e3b1be906824.png",
+    "static/media/Logo-Hitec.png": "/static/media/Logo-Hitec.7090088c7f661c6254f4.png",
     "static/media/TP Logo White Vector.png": "/static/media/TP Logo White Vector.b963855344500fa108f3.png",
     "static/media/McMaster Engineering.jpg": "/static/media/McMaster Engineering.d9fe06f8ad39fde64ea1.jpg",
     "static/media/McMaster-Colour-Cropped.png": "/static/media/McMaster-Colour-Cropped.40186ff00f6bc5c5a8db.png",
     "static/media/GreatHobbies.png": "/static/media/GreatHobbies.964771b0d26bb1a15362.png",
     "static/media/Skygauge_Logo.jpg": "/static/media/Skygauge_Logo.39eb07c6ffba466c4459.jpg",
-    "static/media/AMP Logos_Green w- Words.png": "/static/media/AMP Logos_Green w- Words.2a50010a4c6fd165a00c.png",
     "static/media/mastLogo.jpg": "/static/media/mastLogo.4cfca4ef81e6ebf0f211.jpg",
     "static/media/SAE_design_east.png": "/static/media/SAE_design_east.a70c952fc0d099755c47.png",
     "static/media/Aecon-Logo.wine.png": "/static/media/Aecon-Logo.wine.465cf1703eeff01880a3.png",
@@ -30,12 +31,12 @@
     "static/media/instagram.png": "/static/media/instagram.edb90ecc706a7a25542b.png",
     "static/media/SolidWorks-Logo.png": "/static/media/SolidWorks-Logo.7e7b543a2484b5e8b4e5.png",
     "index.html": "/index.html",
-    "main.7cc09be2.css.map": "/static/css/main.7cc09be2.css.map",
-    "main.1cad4f28.js.map": "/static/js/main.1cad4f28.js.map",
+    "main.bbe7de67.css.map": "/static/css/main.bbe7de67.css.map",
+    "main.3d82de26.js.map": "/static/js/main.3d82de26.js.map",
     "787.475fd0f7.chunk.js.map": "/static/js/787.475fd0f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cc09be2.css",
-    "static/js/main.1cad4f28.js"
+    "static/css/main.bbe7de67.css",
+    "static/js/main.3d82de26.js"
   ]
 }
